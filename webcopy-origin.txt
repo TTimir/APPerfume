@@ -1,0 +1,532 @@
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800;900&family=Kalnia:wght@400;500;600;700&display=swap
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalnia/v5/11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW-8kWxR.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\kalnia\v5\11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW-8kWxR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalnia/v5/11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW-FkWxR.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\kalnia\v5\11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW-FkWxR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalnia/v5/11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW9ilmxR.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\kalnia\v5\11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW9ilmxR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalnia/v5/11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW9QlmxR.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\s\kalnia\v5\11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW9QlmxR.ttf
+Content Type: font/ttf
+
+Uri: https://qriuk.com/html/perka-preview/perka/404-page.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\404-page.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/about-us.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\about-us.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/css/bootstrap.min.css
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/css/fontawesome-all.min.css
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/css/style.css
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\css\style.css
+Content Type: text/css
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/css/swiper-bundle.min.css
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/fonts/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\fonts\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/avatars/author-avatar.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\avatars\author-avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/avatars/tes-1.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\avatars\tes-1.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/avatars/tes-2.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\avatars\tes-2.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/about-us-01.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\about-us-01.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/banner-5-1.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\banner-5-1.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/banner-5-2.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\banner-5-2.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/banner-5-3.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\banner-5-3.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/bn-hf-1-570x340.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\bn-hf-1-570x340.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/bn-hf-2-570x340.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\bn-hf-2-570x340.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/breadcrumb_bag.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\breadcrumb_bag.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/menu-banner.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\menu-banner.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/banners/sale-banner-6-3.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\banners\sale-banner-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-2.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-3.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-4.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-5.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-6.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-7.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-8.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/blog-9.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/single_post_1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\single_post_1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/blogs/single_post_2.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\blogs\single_post_2.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/deal-offer/banner-5-6.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\deal-offer\banner-5-6.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/deal-offer/deal-banner-bg-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\deal-offer\deal-banner-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/favicon.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/instagram/instagram-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\instagram\instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/instagram/instagram-2.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\instagram\instagram-2.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/instagram/instagram-3.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\instagram\instagram-3.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/instagram/instagram-4.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\instagram\instagram-4.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/instagram/instagram-5.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\instagram\instagram-5.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/large-products/large-product-01.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\large-products\large-product-01.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/large-products/large-product-02.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\large-products\large-product-02.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/large-products/large-product-03.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\large-products\large-product-03.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/large-products/large-product-04.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\large-products\large-product-04.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/logo/logo-white.svg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\logo\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/logo/logo.svg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/delivery-return.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\delivery-return.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/delivery-truck.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\delivery-truck.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/on-time-icon.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\on-time-icon.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/pay-2.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\pay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/payment.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\payment.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/others/support-icon.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\others\support-icon.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-1.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-1.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-2.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-2.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-3.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-3.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-4.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-4.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-5.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-5.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-6.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-6.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/patner-brand/brand-7.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\patner-brand\brand-7.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-10.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-10.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-2.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-3.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-4.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-5.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-6.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-7.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-7.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-8.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-8.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/products/product-9.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\products\product-9.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/sliders/hero-1-banner-text-inner.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\sliders\hero-1-banner-text-inner.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/sliders/hero-banner-1.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\sliders\hero-banner-1.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/sliders/hero-four-slider-1.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\sliders\hero-four-slider-1.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/sliders/hero-four-slider-2.png
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\sliders\hero-four-slider-2.png
+Content Type: image/png
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/teams/leader1-about2-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\teams\leader1-about2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/teams/leader2-about2-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\teams\leader2-about2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/teams/leader3-about2-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\teams\leader3-about2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/images/teams/leader4-about2-1.jpg
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\images\teams\leader4-about2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/js/main.js
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/js/modernizr-3.11.7.min.js
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\js\modernizr-3.11.7.min.js
+Content Type: application/x-javascript
+
+Uri: https://qriuk.com/html/perka-preview/perka/assets/js/swiper-bundle.min.js
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\assets\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-details-two.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-details-two.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-details.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-details.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-left-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-list.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-list.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-mask.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-mask.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-no-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-no-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog-right-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/blog.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\blog.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/cart.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\cart.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/checkout.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\checkout.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/contact-us.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\contact-us.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/index-2.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\index-2.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/index-3.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\index-3.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/index.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\index.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/login-register.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\login-register.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/my-account.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\my-account.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-countdown.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-countdown.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-grid-1-column.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-grid-1-column.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-grid-2-column.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-grid-2-column.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-tab-accordion-vertical.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-tab-accordion-vertical.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-tab-accordion.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-tab-accordion.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-variable.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-variable.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-variation-vertical-thumbs.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-variation-vertical-thumbs.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details-variation.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details-variation.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-details.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-details.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/product-top-gallay-details.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\product-top-gallay-details.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-description-on-bottom.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-description-on-bottom.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-description-on-top.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-description-on-top.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-left-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-left-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-list-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-list-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-no-sidebar-offcanvas.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-no-sidebar-offcanvas.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop-right-sidebar.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/shop.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\shop.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/store-locator.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\store-locator.html
+Content Type: text/html
+
+Uri: https://qriuk.com/html/perka-preview/perka/wishlist.html
+File Name: C:\Users\Asus\OneDrive\Desktop\qriuk.com\html\perka-preview\perka\wishlist.html
+Content Type: text/html
+
