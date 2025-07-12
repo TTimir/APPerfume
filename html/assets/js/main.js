@@ -345,28 +345,37 @@ var swiperProductSlider = new Swiper(".product-slider-two-active", {
 
 
 // Quick View Poduct Slider JS
-let swiperQuickViewProductThumbItem = new Swiper(".product-quickview-sm-thum-active", {
-    slidesPerView: 'auto',
-    spaceBetween: 10,
-    centeredSlides: false,
-    loop: true,
-    slideToClickedSlide: true,
-    slidesPerView: 4,
-    center: true,
-});
+document.querySelectorAll('.product-quick-view-modal').forEach(modal => {
+    const thumbSlider = modal.querySelector('.product-quickview-sm-thum-active');
+    const largeSlider = modal.querySelector('.product-quickview-lg-active');
+    const nextBtn = modal.querySelector('.product-details-button-next');
+    const prevBtn = modal.querySelector('.product-details-button-prev');
 
-let swiperQuickViewProductLargeItem = new Swiper(".product-quickview-lg-active", {
-    slidesPerView: 1,
-    centeredSlides: true,
-    loop: true,
-    loopedSlides: 6,
-    navigation: {
-        nextEl: ".product-details-button-next",
-        prevEl: ".product-details-button-prev",
-    },
-    thumbs: {
-        swiper: swiperQuickViewProductThumbItem,
-    },
+    if (largeSlider && thumbSlider) {
+        let swiperQuickViewProductThumbItem = new Swiper(thumbSlider, {
+            slidesPerView: 'auto',
+            spaceBetween: 10,
+            centeredSlides: false,
+            loop: true,
+            slideToClickedSlide: true,
+            slidesPerView: 4,
+            center: true,
+        });
+
+        let swiperQuickViewProductLargeItem = new Swiper(largeSlider, {
+            slidesPerView: 1,
+            centeredSlides: true,
+            loop: true,
+            loopedSlides: 6,
+            navigation: {
+                nextEl: nextBtn,
+                prevEl: prevBtn,
+            },
+            thumbs: {
+                swiper: swiperQuickViewProductThumbItem,
+            },
+        });
+    }
 });
 
 
