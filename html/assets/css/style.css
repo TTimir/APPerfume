@@ -386,7 +386,7 @@ hr {
   text-align: center;
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
-  left: 20px;
+  left: -30px; /* Adjusted for outside positioning */
   right: auto;
   opacity: 0;
   visibility: hidden;
@@ -403,7 +403,7 @@ hr {
   opacity: 0.3 !important;
 }
 .swiper-navigation-next {
-  right: 20px;
+  right: -30px;
   left: auto;
 }
 
